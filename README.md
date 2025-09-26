@@ -9,6 +9,7 @@ Screenshota
 <img width="915" height="711" alt="Screenshot 2025-09-26 154108" src="https://github.com/user-attachments/assets/b5c529fe-d57b-4b1a-8630-7108c1c6a315" />
 
 References
+
 Google.com. (2025). Redirect Notice. [online] Available at:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%
 2Felectrician-post&psig=AOvVaw0dJOZciFQrebMEAkBbcHE&ust=1756389185262000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRx
